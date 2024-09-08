@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857942637040",
+    "project_id": "women-safety-eb95b",
+    "storage_bucket": "women-safety-eb95b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857942637040:android:78d160a0ce2ba727118535",
+        "android_client_info": {
+          "package_name": "com.example.learn_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgcikgErESOKd-pKQ9BxiOOovQNDEBarM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
